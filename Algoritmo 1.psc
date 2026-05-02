@@ -1,27 +1,25 @@
+//  realizar un algoritmo que pida identificacion, nombres, edad, fechanaciento, correo , telefono de una persona y mostrar detalle en pantalla
 Algoritmo sin_titulo
-	Escribir "Ingrese su identificacion"
-	Leer Identificacion
-	Escribir "Ingrese sus nombres"
-	Leer Nombres
-	Escribir "Ingrese su edad"
-	Leer Edad
-	Escribir "Ingrese su fecha de nacimiento"
-	Leer Fechanacimiento
-	Escribir "Ingrese su correo"
-	Leer Correo
-	Escribir "Ingrese su telefono"
-	Leer Telefono
-	Escribir "Datos ingresados"
-	Escribir "Identificacion:"
-	Escribir Identificacion 
-	Escribir "Edad :"
-	Escribir Edad
-	Escribir "Fecha de nacimiento:"
-	Escribir Fechanacimiento
-	Escribir "Correo:"
-	Escribir Correo
-	Escribir "Telefono:"
-	Escribir Telefono
+	definir documento, nom, edad, Fnacimientio, correo, tel Como Caracter
+	Escribir "numero identificacion"
+	Leer documento
+	Escribir "nombres "
+	leer nom
+	Escribir "su edad "
+	leer edad
+	Escribir "su fecha nacimiento"
+	leer Fnacimiento
+	Escribir "su correo electronico"
+	Leer correo
+	Escribir "su numero de celular"
+	leer teL
+	Escribir " DATOS INGRESADOS "
+	imprimir "su numero de identificacion es;" documento
+	imprimir "su nombre es ;" nom
+	imprimir "su edad es; " edad
+	imprimir "usted nacio el ; " Fnacimiento
+	imprimir "su correo electronico es;" correo
+	imprimir "su  numero de telefono es;" tel 
 	
 	
 FinAlgoritmo
